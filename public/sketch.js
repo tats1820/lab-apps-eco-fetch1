@@ -44,5 +44,5 @@ function windowResized() {
 function newCursor() {
     noStroke();
     fill(255);
-    ellipse(pmouseX, pmouseY, 10, 10);
+    ellipse(pmouseX, pmouseY, 10, 10); //
 }
